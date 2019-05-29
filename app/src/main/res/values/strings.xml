@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="warning">Warning!</string>
+    <string name="permission_explaination">Please allow the app to use your location to show your nearest friends</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="google_maps_key" translatable="false">AIzaSyBgQnsxbLksGDR6u-TIqt_DtWluNJRbuTI</string>
+</resources>
